@@ -2,4 +2,8 @@
 # ITSUR ISC
 
 # Proyectos programación lógica y funcional
+  - Factorial
+  - Números a palabras
+  - Ejercicios básicos Haskell
   - Functores y mónadas
+  - Kata Bowling
